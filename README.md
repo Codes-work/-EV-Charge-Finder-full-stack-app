@@ -22,6 +22,8 @@ Built as a demonstration project to showcase full-stack development skills (Reac
 
 | Wallet -> ![Wallet](screenshots/wallet.png)|
 
+|Wallet topup flow -> ![Wallet topup1](screenshots/wallet_topup1.png), ![Wallet topup2](screenshots/wallet_topup2.png),![Wallet topup3](screenshots/wallet_topup3.png)|
+
 | Payment Flow -> ![payment flow part1](screenshots/payment_flow_part1.png),![payment flow part2](screenshots/payment_flow_part2.png),![payment flow part3](screenshots/payment_flow_part3.png) |
 
 | Transaction History -> ![Transaction Histroy](screenshots/transaction_history.png)|
