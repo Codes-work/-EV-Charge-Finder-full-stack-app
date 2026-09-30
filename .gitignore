@@ -1,0 +1,8 @@
+backend/api/config/database.php
+backend/api/config/razorpay.php
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
